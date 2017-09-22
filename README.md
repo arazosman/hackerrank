@@ -1,2 +1,2 @@
 # hackerrank
-Hackerrank solutions.
+C/C++ solutions for Hackerrank.
